@@ -360,6 +360,19 @@ article.single figure {
   }
 }
 
+article.single div.headshot {
+  display: inline-block;
+  max-width: 100px;
+  text-align: center;
+  margin: 0 10px;
+}
+
+article.single div.headshot img {
+  border: 1px solid #f2f0ec;
+  border-radius: 50%;
+  max-width: 100%;
+}
+
 article.single figure img {
   max-width: 100%;
   width: 100%;

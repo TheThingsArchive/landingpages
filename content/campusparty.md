@@ -36,6 +36,16 @@ We love to follow your progress through social media. So please tag `@thethingsn
 
 Have fun and we will see you at the Hackerspace! Look for people with a shirt with our logo. They are happy to help you out!
 
+## Team members at Campus Party
+
+{{< headshot Dorian >}}
+{{< headshot Hylke >}}
+{{< headshot Johan >}}
+{{< headshot Laurens >}}
+{{< headshot Ludo >}}
+{{< headshot Romeo >}}
+{{< headshot Wienke >}}
+
 {{< figure src="https://ksr-ugc.imgix.net/assets/004/698/248/e3392af097e6f803bb0bff292ee7dfa4_original.png?w=680&fit=max&v=1444912955&auto=format&lossless=true&s=399dc4e834a6d4fd15be63ec8a8f0512" >}}
 
 {{< figure src="https://ksr-ugc.imgix.net/assets/004/698/243/698dc812948911adb3ca4af825310b33_original.JPG?w=680&fit=max&v=1444912895&auto=format&q=92&s=7a4debff653e3b1b8d6d735da09b74c4" >}}
