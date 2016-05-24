@@ -1,4 +1,4 @@
-baseurl = "http://thethingsnetwork.github.io/landingpages/"
+baseurl = "https://thethingsnetwork.github.io/landingpages/"
 languageCode = "en-us"
 title = "The Things Network"
 theme = "base16"
