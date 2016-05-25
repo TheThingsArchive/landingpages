@@ -25,7 +25,7 @@ With these tools you can make any fancy connected application. This page tells y
 2. Create a team and think of some ideas!
 3. Create a group about your project on our community page here: [https://thethingsnetwork.org/labs/](https://thethingsnetwork.org/labs/)
 4. Get your Arduino and some sensors at The Things Network booth. Please come by if you have any questions.
-5. Start playing around with TTN's [development console](http://staging.thethingsnetwork.org/applications)
+5. Follow [The Things Uno Workshop](https://github.com/TheThingsNetwork/examples/tree/master/workshops/TheThingsUno) and see your data in TTN's [development console](http://staging.thethingsnetwork.org/applications).
 6. Make something awesome!
 7. Inspire the community about what you did and how they can replicate by telling them all about it on your groups page.
 
