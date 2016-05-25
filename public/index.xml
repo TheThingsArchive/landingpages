@@ -57,6 +57,14 @@
 
 &lt;p&gt;
 &lt;div class=&#34;headshot&#34;&gt;
+  &lt;img src=&#34;https://thethingsnetwork.github.io/landingpages/img/headshots/dorian.jpg&#34; alt=&#34;Dorian&#34; /&gt;
+  &lt;p&gt;Dorian&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;headshot&#34;&gt;
   &lt;img src=&#34;https://thethingsnetwork.github.io/landingpages/img/headshots/hylke.jpg&#34; alt=&#34;Hylke&#34; /&gt;
   &lt;p&gt;Hylke&lt;/p&gt;
 &lt;/div&gt;

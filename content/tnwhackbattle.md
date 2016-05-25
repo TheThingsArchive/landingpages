@@ -38,6 +38,7 @@ Have fun and we will see you at the Hack Battle! Look for people with a shirt wi
 
 ## For Questions, find our team members
 
+{{< headshot Dorian >}}
 {{< headshot Hylke >}}
 {{< headshot Johan >}}
 {{< headshot Laurens >}}
