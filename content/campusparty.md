@@ -25,7 +25,7 @@ With these tools you can make any fancy connected application. This page tells y
 2. Create a team and think of some ideas!
 3. Create a group about your project on our community page here: [https://thethingsnetwork.org/labs/](https://thethingsnetwork.org/labs/)
 4. Get your Arduino and some sensors at the Campus Party Makerspace.
-5. Start playing around with TTN's [dashboard|](http://staging.thethingsnetwork.org/applications)
+5. Follow [The Things Uno Workshop](https://github.com/TheThingsNetwork/examples/tree/master/workshops/TheThingsUno) and see your data in TTN's [dashboard](http://staging.thethingsnetwork.org/applications).
 6. Come to our workshop by our Tech Lead Johan Stokking on [Thursday at 19:00](http://campuse.ro/events/campus-party-europe-2016/workshop/workshop-iot-johan-stokking-cpeu4/)
 7. Make something awesome!
 8. Inspire the community about what you did and how they can replicate by telling them all about it on your groups page.
