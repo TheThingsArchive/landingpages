@@ -25,7 +25,7 @@ With these tools you can make any fancy connected application. This page tells y
 2. Create a team and think of some ideas!
 3. Create a group about your project on our community page here: [https://thethingsnetwork.org/labs/](https://thethingsnetwork.org/labs/)
 4. Get your Arduino and some sensors at the Campus Party Makerspace.
-5. Follow [The Things Uno Workshop](https://github.com/TheThingsNetwork/examples/tree/master/workshops/TheThingsUno) and see your data in TTN's [dashboard](http://staging.thethingsnetwork.org/applications).
+5. Follow [The Things Uno Workshop](https://github.com/TheThingsNetwork/examples/tree/master/workshops/TheThingsUno) and see your data in TTN's [dashboard](http://staging.thethingsnetwork.org/applications) or in [Node-RED]({{< relref "#node-red" >}}).
 6. Come to our workshop by our Tech Lead Johan Stokking on [Thursday at 19:00](http://campuse.ro/events/campus-party-europe-2016/workshop/workshop-iot-johan-stokking-cpeu4/)
 7. Make something awesome!
 8. Inspire the community about what you did and how they can replicate by telling them all about it on your groups page.
@@ -49,3 +49,10 @@ Have fun and we will see you at the Hackerspace! Look for people with a shirt wi
 {{< figure src="https://ksr-ugc.imgix.net/assets/004/698/248/e3392af097e6f803bb0bff292ee7dfa4_original.png?w=680&fit=max&v=1444912955&auto=format&lossless=true&s=399dc4e834a6d4fd15be63ec8a8f0512" >}}
 
 {{< figure src="https://ksr-ugc.imgix.net/assets/004/698/243/698dc812948911adb3ca4af825310b33_original.JPG?w=680&fit=max&v=1444912895&auto=format&q=92&s=7a4debff653e3b1b8d6d735da09b74c4" >}}
+
+## Node-RED
+
+You can access your personal Node-RED environment by browsing to:
+`http://cpeu` group number `.nodered.thethingslabs.com`
+
+_(for example: `http://cpeu60.nodered.thethingslabs.com`)_
