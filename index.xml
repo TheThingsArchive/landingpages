@@ -10,6 +10,81 @@
     <atom:link href="https://thethingsnetwork.github.io/landingpages/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>EclipseCon France 2016</title>
+      <link>https://thethingsnetwork.github.io/landingpages/eclipsecon/</link>
+      <pubDate>Tue, 24 May 2016 12:39:55 +0200</pubDate>
+      
+      <guid>https://thethingsnetwork.github.io/landingpages/eclipsecon/</guid>
+      <description>
+
+&lt;h1 id=&#34;the-things-network-mqtt-workshop-at-eclipsecon-france-2016:a7a11b2a3d5dc78b8001d54ca86c831d&#34;&gt;The Things Network MQTT Workshop at EclipseCon France 2016&lt;/h1&gt;
+
+&lt;p&gt;We are very happy you have joined the MQTT workshop at EclipseCon France 2016 and we are happy to provide you with some awesome Internet of Things tools.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;There are a limited amount of LoRaWAN Arduinos available for you to play around with!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://thethingsnetwork.org/static/ttn/media/The%20Things%20Uitlijning.svg&#34; alt=&#34;The Things Network&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Things Network is offering you a LoRaWAN enabled Arduino and a LoRaWAN network you can make use of.&lt;/p&gt;
+
+&lt;p&gt;With these tools you can make any fancy connected application. This page tells you how to obtain the devices and how to get started.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Get yourself familiar with The Things Network and it’s potential
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.thethingsnetwork.org&#34;&gt;Our home page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://staging.thethingsnetwork.org/wiki/Home&#34;&gt;Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://forum.thethingsnetwork.org&#34;&gt;Forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://slack.thethingsnetwork.org&#34;&gt;Slack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/419277966/the-things-network&#34;&gt;Kickstarter to find out more about our products&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Get your Arduino, a light sensor and cable&lt;/li&gt;
+&lt;li&gt;Follow &lt;a href=&#34;https://github.com/TheThingsNetwork/examples/tree/workshop/eclipsecon-2016/workshops/TheThingsUno&#34;&gt;The Things Uno MQTT Workshop&lt;/a&gt; and see your data in TTN&amp;rsquo;s &lt;a href=&#34;http://staging.thethingsnetwork.org/applications&#34;&gt;dashboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Create a group about your project on our community page here: &lt;a href=&#34;https://thethingsnetwork.org/labs/&#34;&gt;https://thethingsnetwork.org/labs/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Inspire the community about what you did and how they can replicate by telling them all about it on your groups page.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;for-questions-find-our-team-members:a7a11b2a3d5dc78b8001d54ca86c831d&#34;&gt;For Questions, find our team members&lt;/h2&gt;
+
+&lt;p&gt;
+&lt;div class=&#34;headshot&#34;&gt;
+  &lt;img src=&#34;https://thethingsnetwork.github.io/landingpages/img/headshots/hylke.jpg&#34; alt=&#34;Hylke&#34; /&gt;
+  &lt;p&gt;Hylke&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;headshot&#34;&gt;
+  &lt;img src=&#34;https://thethingsnetwork.github.io/landingpages/img/headshots/johan.jpg&#34; alt=&#34;Johan&#34; /&gt;
+  &lt;p&gt;Johan&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ksr-ugc.imgix.net/assets/004/698/248/e3392af097e6f803bb0bff292ee7dfa4_original.png?w=680&amp;amp;fit=max&amp;amp;v=1444912955&amp;amp;auto=format&amp;amp;lossless=true&amp;amp;s=399dc4e834a6d4fd15be63ec8a8f0512&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ksr-ugc.imgix.net/assets/004/698/243/698dc812948911adb3ca4af825310b33_original.JPG?w=680&amp;amp;fit=max&amp;amp;v=1444912895&amp;amp;auto=format&amp;amp;q=92&amp;amp;s=7a4debff653e3b1b8d6d735da09b74c4&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>TNW Hack Battle</title>
       <link>https://thethingsnetwork.github.io/landingpages/tnwhackbattle/</link>
       <pubDate>Tue, 24 May 2016 12:39:55 +0200</pubDate>
