@@ -43,6 +43,7 @@
 &lt;li&gt;Get the required files from our &lt;a href=&#34;http://goo.gl/xxZVBZ&#34;&gt;Dropbox folder&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Follow &lt;a href=&#34;https://github.com/TheThingsNetwork/examples/tree/workshop/eclipsecon-2016/workshops/TheThingsUno&#34;&gt;The Things Uno MQTT Workshop&lt;/a&gt; and see your data in TTN&amp;rsquo;s &lt;a href=&#34;http://staging.thethingsnetwork.org/applications&#34;&gt;dashboard&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Use Eclipse Paho to access the data from your Java code. Use JavaFX to visualize it: &lt;a href=&#34;https://github.com/kartben/ttn_paho_workshop&#34;&gt;https://github.com/kartben/ttn_paho_workshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Use Socket.io to access the data in the browser: &lt;a href=&#34;https://github.com/TheThingsNetwork/examples/tree/master/socketio&#34;&gt;example&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Create a group about your project on our community page here: &lt;a href=&#34;https://thethingsnetwork.org/labs/&#34;&gt;https://thethingsnetwork.org/labs/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Inspire the community about what you did and how they can replicate by telling them all about it on your groups page.&lt;/li&gt;
 &lt;/ol&gt;

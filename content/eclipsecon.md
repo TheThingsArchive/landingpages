@@ -26,8 +26,9 @@ With these tools you can make any fancy connected application. This page tells y
 3. Get the required files from our [Dropbox folder](http://goo.gl/xxZVBZ)
 4. Follow [The Things Uno MQTT Workshop](https://github.com/TheThingsNetwork/examples/tree/workshop/eclipsecon-2016/workshops/TheThingsUno) and see your data in TTN's [dashboard](http://staging.thethingsnetwork.org/applications)
 5. Use Eclipse Paho to access the data from your Java code. Use JavaFX to visualize it: [https://github.com/kartben/ttn_paho_workshop](https://github.com/kartben/ttn_paho_workshop)
-6. Create a group about your project on our community page here: [https://thethingsnetwork.org/labs/](https://thethingsnetwork.org/labs/)
-7. Inspire the community about what you did and how they can replicate by telling them all about it on your groups page.
+6. Use Socket.io to access the data in the browser: [example](https://github.com/TheThingsNetwork/examples/tree/master/socketio).
+7. Create a group about your project on our community page here: [https://thethingsnetwork.org/labs/](https://thethingsnetwork.org/labs/)
+8. Inspire the community about what you did and how they can replicate by telling them all about it on your groups page.
 
 ## For Questions, find our team members
 
